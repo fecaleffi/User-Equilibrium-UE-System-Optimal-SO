@@ -25,7 +25,4 @@ The documentation of the method in `assignment.py` provides a through descriptio
  
  A through description of the TNTP format and a wide range of real transportation networks to test the algorithm on is avaialble at [TransportationNetworks](https://github.com/bstabler/TransportationNetworks).
 
-  # Acknowledgments
  
-* This work is based on [Traffic-Assignment](https://github.com/prameshk/Traffic-Assignment) and [Traffic-Assignment-Frank-Wolfe-2021](https://github.com/matteobettini/Traffic-Assignment-Frank-Wolfe-2021).
-* All the networks used for testing the correctness of the algorithm are available at [TransportationNetworks](https://github.com/bstabler/TransportationNetworks).
